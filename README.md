@@ -1,6 +1,8 @@
 # Dashboard Analitis untuk Optimalisasi Waktu Pengiriman Makanan
 
-![Dashboard Screenshot]
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a519683-b95a-47c6-b5f2-2d7664a1bd48" width="80%">
+</p>
 
 Sebuah dashboard interaktif yang dibangun menggunakan Streamlit untuk menganalisis faktor-faktor kunci yang memengaruhi waktu pengiriman makanan, berdasarkan dataset dari Kaggle.
 
@@ -8,7 +10,7 @@ Sebuah dashboard interaktif yang dibangun menggunakan Streamlit untuk menganalis
 
 ### 🔗 Live Demo
 
-**[Lihat Dashboard Langsung di Sini!](URL)**
+**[Lihat Dashboard Langsung di Sini!](https://food-delivery-perfomance-4yzefpnxdamb8rwyzatnhp.streamlit.app/)**
 
 ---
 
